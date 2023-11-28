@@ -8,7 +8,6 @@ public abstract class Produto {
 	
 	//Constructor
 	public Produto(int id, int tipo, String nome, float preco) {
-		super();
 		this.id = id;
 		this.tipo = tipo;
 		this.nome = nome;
